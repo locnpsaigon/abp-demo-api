@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "AbpDemoApi.Domain.Shared": {
+      "path": "src/AbpDemoApi.Domain.Shared/AbpDemoApi.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "AbpDemoApi.Domain": {
+      "path": "src/AbpDemoApi.Domain/AbpDemoApi.Domain.abppkg",
+      "folder": "src"
+    },
+    "AbpDemoApi.Application.Contracts": {
+      "path": "src/AbpDemoApi.Application.Contracts/AbpDemoApi.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "AbpDemoApi.Application": {
+      "path": "src/AbpDemoApi.Application/AbpDemoApi.Application.abppkg",
+      "folder": "src"
+    },
+    "AbpDemoApi.EntityFrameworkCore": {
+      "path": "src/AbpDemoApi.EntityFrameworkCore/AbpDemoApi.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "AbpDemoApi.MongoDB": {
+      "path": "src/AbpDemoApi.MongoDB/AbpDemoApi.MongoDB.abppkg",
+      "folder": "src"
+    },
+    "AbpDemoApi.HttpApi": {
+      "path": "src/AbpDemoApi.HttpApi/AbpDemoApi.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "AbpDemoApi.HttpApi.Client": {
+      "path": "src/AbpDemoApi.HttpApi.Client/AbpDemoApi.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "AbpDemoApi.TestBase": {
+      "path": "test/AbpDemoApi.TestBase/AbpDemoApi.TestBase.abppkg",
+      "folder": "test"
+    },
+    "AbpDemoApi.EntityFrameworkCore.Tests": {
+      "path": "test/AbpDemoApi.EntityFrameworkCore.Tests/AbpDemoApi.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "AbpDemoApi.MongoDB.Tests": {
+      "path": "test/AbpDemoApi.MongoDB.Tests/AbpDemoApi.MongoDB.Tests.abppkg",
+      "folder": "test"
+    },
+    "AbpDemoApi.Domain.Tests": {
+      "path": "test/AbpDemoApi.Domain.Tests/AbpDemoApi.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "AbpDemoApi.Application.Tests": {
+      "path": "test/AbpDemoApi.Application.Tests/AbpDemoApi.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "AbpDemoApi.HttpApi.Host": {
+      "path": "host/AbpDemoApi.HttpApi.Host/AbpDemoApi.HttpApi.Host.abppkg",
+      "folder": "host"
+    },
+    "AbpDemoApi.Web": {
+      "path": "src/AbpDemoApi.Web/AbpDemoApi.Web.abppkg",
+      "folder": "src"
+    },
+    "AbpDemoApi.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/AbpDemoApi.HttpApi.Client.ConsoleTestApp/AbpDemoApi.HttpApi.Client.ConsoleTestApp.abppkg",
+      "folder": "test"
+    },
+    "AbpDemoApi.Web.Host": {
+      "path": "host/AbpDemoApi.Web.Host/AbpDemoApi.Web.Host.abppkg",
+      "folder": "host"
+    },
+    "AbpDemoApi.AuthServer": {
+      "path": "host/AbpDemoApi.AuthServer/AbpDemoApi.AuthServer.abppkg",
+      "folder": "host"
+    },
+    "AbpDemoApi.Host.Shared": {
+      "path": "host/AbpDemoApi.Host.Shared/AbpDemoApi.Host.Shared.abppkg",
+      "folder": "host"
+    },
+    "AbpDemoApi.Web.Unified": {
+      "path": "host/AbpDemoApi.Web.Unified/AbpDemoApi.Web.Unified.abppkg",
+      "folder": "host"
+    },
+    "AbpDemoApi.Blazor": {
+      "path": "src/AbpDemoApi.Blazor/AbpDemoApi.Blazor.abppkg",
+      "folder": "src"
+    },
+    "AbpDemoApi.Blazor.Host": {
+      "path": "host/AbpDemoApi.Blazor.Host/AbpDemoApi.Blazor.Host.abppkg",
+      "folder": "host"
+    },
+    "AbpDemoApi.Blazor.Server": {
+      "path": "src/AbpDemoApi.Blazor.Server/AbpDemoApi.Blazor.Server.abppkg",
+      "folder": "src"
+    },
+    "AbpDemoApi.Blazor.WebAssembly": {
+      "path": "src/AbpDemoApi.Blazor.WebAssembly/AbpDemoApi.Blazor.WebAssembly.abppkg",
+      "folder": "src"
+    },
+    "AbpDemoApi.Blazor.Server.Host": {
+      "path": "host/AbpDemoApi.Blazor.Server.Host/AbpDemoApi.Blazor.Server.Host.abppkg",
+      "folder": "host"
+    }
+  }
+}
